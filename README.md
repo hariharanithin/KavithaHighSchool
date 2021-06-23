@@ -1,4 +1,6 @@
 # KavithaHighSchool
 school
 
-In this gh-pages branch, you can find the plan and its development file
+Hi, my name is M Hari Hara Nithin Reddy, I have decided to build a website for a school "Kavitha High School"
+
+This branch is for plans
